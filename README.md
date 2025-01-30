@@ -1,7 +1,7 @@
 # 🌍 NileBit Labs
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=25000&pause=1000&color=33A1FD&center=true&vCenter=true&width=1200&lines=+%7C%7C+%7C%7C+%7C%7C+%7C%7C+%7C%7C+%7C%7C+Innovating+Blockchain+%26+AI+Solutions+%7C%7C+Web3+%26+Decentralized+Tech+Experts+%7C%7C+Smart+Contracts+%26+DApp+Development+%7C%7C+AI%2FML+For+Future+Tech" alt="NileBit Labs Expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=500&color=33A1FD&center=true&vCenter=true&width=1200&lines=Innovating+Blockchain+%26+AI+Solutions;Web3+%26+Decentralized+Tech+Experts;Smart+Contracts+%26+DApp+Development;AI%2FML+For+Future+Tech&effect=type&effectDuration=2000&erase=true&eraseDuration=1500" alt="NileBit Labs Expertise" />
 </p>
 
 ## 🚀 About Us
