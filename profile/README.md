@@ -68,23 +68,6 @@ We leverage a powerful suite of technologies to deliver robust solutions:
 
 ---
 
-## 📚 Get Started
-Want to explore our codebase or collaborate? Here’s how:
-
-1. **Clone the Repo**:
-   ```bash
-   git clone https://github.com/nilebitlabs/nilebitlabs.com.git
-   cd nilebitlabs.com
-Install Dependencies:
-
-npm install
-Run Locally:
-
-npm run dev
-Visit http://localhost:3000 to see it in action.
-🤝 Let's Connect!
-Have a project idea or want to collaborate? Reach out to us!
-
 <p align="center"> <a href="mailto:info@nilebitlabs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/company/nilebit-labs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/NileBitLabs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="https://github.com/nilebitlabs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> </p>
 🌟 Why NileBit Labs?
 Innovation-Driven: We push the boundaries of blockchain and AI.
